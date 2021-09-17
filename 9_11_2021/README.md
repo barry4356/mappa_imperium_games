@@ -12,6 +12,7 @@
 - [History](#the-beginning)
     - [The Beginning](#the-beginning)
     - [Age of Discovery](#age-of-discovery)
+- [Online Helper](pythontool.md)
 
 # The Beginning
 
