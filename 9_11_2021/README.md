@@ -5,20 +5,19 @@
 - [Tribes](factions.md)
     - [Forked Tongues](factions.md#forked-tongues)
     - [Inganae](factions.md#inganae)
-- [Pantheon](#history)
-    - [Goran](#history)
-    - [Narnova](#history)
-    - [Ankai](#history)
-- [History](#history)
+- [Pantheon](#the-pantheon)
+    - [Goran](#the-pantheon)
+    - [Narnova](#the-pantheon)
+    - [Ankai](#the-pantheon)
+- [History](#the-beginning)
     - [The Beginning](#the-beginning)
     - [Age of Discovery](#age-of-discovery)
 
-# History
-
-## The Beginning
+# The Beginning
 
 ![firstage](FirstAge.png)
 
+## The Pantheon
 ### Ankai, god of the skies
 ![symbol](AnkaiSymbol.png)
 
@@ -28,7 +27,7 @@
 ### Narnova, goddess of the Hearth
 ![Symbol](NarnovaSymbol.png)
 
-## Age of Discovery
+# Age of Discovery
 
 ![secondage](SecondAge.png)
 
