@@ -24,10 +24,13 @@
 
 ## The Pantheon
 ### <img src="AnkaiSymbol.png" width="35" height="35"> Ankai, god of the skies
+Long ago, war broke out in the heavens. Slaying as many of the gods as he could find, Ankai rose victorious. For their refusal to help aid Ankai in his quest for dominion, the Nephilim were cast from the skies and bound to the mortal realms.
 
 ### <img src="GoranSymbol.png" width="35" height="35"> Goran, god of the Mountain
+Goran is an elder god, who has always taken an interest in the affairs of mortals. When Ankai rose up and made war upon the gods, Goran fled to the mortal realm, and established his dominion upon the Frosted Twin mountains. Long ages passed, with Goran reigning from his mountain refuge until the arrival of Narnova. Goran and Narnova made war upon each other, decimating an entire island and turning one nation into the Barrows and one into the Wastes. Both were much weakened after the battle, Narnova fled into hiding, and Goran fell back to his mountain. It was shorly after that Skaven assaulted Goran's isle, the god attempted to wipe them out, decimating an entire city (and accidentally creating a religion to the East). The Skaven infested the caverns beneath the mountain, and the god began a war of attrition with the crafty demons.
 
 ### <img src="NarnovaSymbol.png" width="35" height="35"> Narnova, goddess of the Hearth
+Narnova is a younger goddess, born of two survivors of Ankai's ascent. Narnova's only contribution to the world has been a terrible god-war against Goran (decimating a large portion of the land, and throwing much into chaos).   
 
 [Top of page](README.md)
 
