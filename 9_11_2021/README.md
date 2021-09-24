@@ -2,7 +2,7 @@
 - [Factions](factions.md)
     - [Barrows Ravagers](factions.md#barrows-ravagers)
     - [Nephilim](factions.md#nephilim)
-- [Tribes](factions.md)
+- [Tribes](tribes.md)
     - [Forked Tongues](tribes.md#forked-tongues)
     - [Inganae](tribes.md#inganae)
     - [Garmsby Hobbits](tribes.md#garmsby-hobbits)
