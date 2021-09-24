@@ -7,6 +7,7 @@
     - [Inganae](factions.md#inganae)
     - [Garmsby Hobbits](factions.md#garmsby-hobbits)
     - [Skaven](factions.md#skaven)
+    - [Simul Fortis](factions.md#simul-fortis)
 - [Pantheon](#the-pantheon)
     - [Goran](#the-pantheon)
     - [Narnova](#the-pantheon)
