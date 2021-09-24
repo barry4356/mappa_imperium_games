@@ -23,14 +23,11 @@
 ![firstage](FirstAge.png)
 
 ## The Pantheon
-### Ankai, god of the skies
-![symbol](AnkaiSymbol.png)
+### <img src="AnkaiSymbol.png" width="35" height="35"> Ankai, god of the skies
 
-### Goran, god of the Mountain
-![GoranSymbol](GoranSymbol.png)
+### <img src="GoranSymbol.png" width="35" height="35"> Goran, god of the Mountain
 
-### Narnova, goddess of the Hearth
-![Symbol](NarnovaSymbol.png)
+### <img src="NarnovaSymbol.png" width="35" height="35"> Narnova, goddess of the Hearth
 
 [Top of page](README.md)
 
