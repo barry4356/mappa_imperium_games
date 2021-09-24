@@ -38,4 +38,9 @@ The fishing village of Garmsby was founded in the old days, when nations traded 
 
 The Skaven, sometimes known as the Ratmen, the Ratkin or the Children of the Horned Rat, are a malevolent and diabolical race of large humanoid rat-creatures. The Skaven as a whole are a cruel, treacherous, and highly numerous species. Their incomprehensible numbers have the potential to smother kingdoms in a seething tide of violence and anarchy. It is believed by all of Skaven-kind that the world is destined to be theirs, for they consider themselves the Supreme Master Race, undeniably superior in every way to all the other races of the World.
 
+# Simul Fortis
+![simulfortis](SimulFortisExample.png)
+
+The Simul Fortis claim their roots go back thousands of years, but given their still primitive technology, the wisemen and Magi estimate their civilization to be no older than the arrival of the Nephilim. Inhabiting the their jungle villages in the tree tops of Jungalia, their capital of Neyority takes a noticeably different appearance, more like that of a more advanced but collapsed city of old. For now they live in peace with their neighbors, but they are innately suspicious of all other sentient life. They follow their prophet god Semos, who they claim also fell from the heavens. Perhaps they are not so different from the Nephilim… 
+
 [Main Page](README.md)
