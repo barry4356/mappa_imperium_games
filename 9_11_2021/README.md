@@ -2,11 +2,15 @@
 - [Factions](factions.md)
     - [Barrows Ravagers](factions.md#barrows-ravagers)
     - [Nephilim](factions.md#nephilim)
-- [Tribes](factions.md)
-    - [Forked Tongues](factions.md#forked-tongues)
-    - [Inganae](factions.md#inganae)
-    - [Garmsby Hobbits](factions.md#garmsby-hobbits)
-    - [Skaven](factions.md#skaven)
+- [Tribes](tribes.md)
+    - [Forked Tongues](tribes.md#forked-tongues)
+    - [Inganae](tribes.md#inganae)
+    - [Garmsby Hobbits](tribes.md#garmsby-hobbits)
+    - [Skaven](tribes.md#skaven)
+    - [Simul Fortis](tribes.md#simul-fortis)
+    - [Half Imps](tribes.md#half-imps)
+- [Cults](cults.md)
+    - [Goran's Doom](cults.md#goran's-doom)
 - [Pantheon](#the-pantheon)
     - [Goran](#the-pantheon)
     - [Narnova](#the-pantheon)
@@ -14,6 +18,7 @@
 - [History](#the-beginning)
     - [The Beginning](#the-beginning)
     - [Age of Discovery](#age-of-discovery)
+    - [Age of Empires](#age-of-empires)
 - [Online Helper](pythontool.md)
 
 # The Beginning
@@ -21,14 +26,16 @@
 ![firstage](FirstAge.png)
 
 ## The Pantheon
-### Ankai, god of the skies
-![symbol](AnkaiSymbol.png)
+### <img src="AnkaiSymbol.png" width="35" height="35"> Ankai, god of the skies
+Long ago, war broke out in the heavens. Slaying as many of the gods as he could find, Ankai rose victorious. For their refusal to help aid Ankai in his quest for dominion, the Nephilim were cast from the skies and bound to the mortal realms.
 
-### Goran, god of the Mountain
-![GoranSymbol](GoranSymbol.png)
+### <img src="GoranSymbol.png" width="35" height="35"> Goran, god of the Mountain
+Goran is an elder god, who has always taken an interest in the affairs of mortals. When Ankai rose up and made war upon the gods, Goran fled to the mortal realm, and established his dominion upon the Frosted Twin mountains. Long ages passed, with Goran reigning from his mountain refuge until the arrival of Narnova. Goran and Narnova made war upon each other, decimating an entire island and turning one nation into the Barrows and one into the Wastes. Both were much weakened after the battle, Narnova fled into hiding, and Goran fell back to his mountain. It was shorly after that Skaven assaulted Goran's isle, the god attempted to wipe them out, decimating an entire city (and accidentally creating a religion to the East). The Skaven infested the caverns beneath the mountain, and the god began a war of attrition with the crafty demons.
 
-### Narnova, goddess of the Hearth
-![Symbol](NarnovaSymbol.png)
+### <img src="NarnovaSymbol.png" width="35" height="35"> Narnova, goddess of the Hearth
+Narnova is a younger goddess, born of two survivors of Ankai's ascent. Narnova's only contribution to the world has been a terrible god-war against Goran (decimating a large portion of the land, and throwing much into chaos).   
+
+[Top of page](README.md)
 
 # Age of Discovery
 
@@ -58,3 +65,33 @@ Nearby, to the East, lies the frosted isle. Scouts report spotting the ruins of 
 **Fantastic landmark.** Scouts tell of a strange find far to the east, a 3-sided marble obelisk with no visible tool marks. What’s more, its location and side walls line up too perfectly. On the Northwest side faces the wild jungle, to the northeast the lush and tame woods, and to the south the bare and hostile desert. Where many lands blend slowly from one biome to the next, these 3 have crisp lines demarking them from each other. Perhaps the obelisk was built to commemorate this geographical oddity…or perhaps it caused it.
 
 **New Tribe.** One of the primary purposes of establishing Goran’s watch was the extraction of obsidian from the deep mines beneath the Frosted Twins… Oh the hubris. All of the parties sent to begin mining went missing immediately, with no word of their status. After sending a squad of Greater Daemon warriors into the mines, it was discovered that they are infested with viscous rat-things. Now not only have the mining efforts ceased, but few dare wander outside of Goran’s Watch after dark. Perhaps these diabolical creatures are the source of the god Goran’s wrath when destroying the town to the south? Who can say…
+
+**New Tribe.** A band of Nephilim magi returning from a season of studying the strange tri sided obelisk return home to Uruk with news of a strange primitive tribe in the wild wooded region of Jungalia. Sentient ape like men wander the their tree villages and appear to speak a similar language to the Nephilim, similar enough at least for introductions, statements of peaceful intent, and perhaps some misinterpreted insults. They remain in their trees for now…or rather…our trees.
+
+**Colonization.** Garag-nar, the Daemon Dreadlord, studies the wall of The Dread Keep’s warchamber, and the map upon it. The daemon engineers just sent word back, the methane processing facility is operational. This new resource could be an entirely new source of energy, sending the daemon horde into a new age of industry…. Or it could be used as a tool of destruction. The setback at the obsidian mines (curse the damned rat-men) has slowed the armory’s build-up, and war is ever on the horizon. The Frosted Twins are a treasure trove of resources, but much blood will need to be shed to claim the invaluable obsidian within…
+
+**Neighbors Expand**
+The Simul Fortis are on the move. Scouts report a newly constructed stone fortress for the ape men, impressive given their backwards ways. Regrettably they appear to be preparing for some sort of attack. Fort Thumbs as our court jester has called it, lies less than a days march from our stolen market, albeit across the river (poor bastards with their open noses…if they want to cross they’ll need some boats) Perhaps they will aid us in our plight against the Forked tongues occupying our land…or perhaps we’ll be sporting new Ape fur coats come winter.
+
+**Neighbors Expand**
+It's been long months since the priests of Gorgon came to Blurag to describe their recent visions. Visions depicting magic black stone beneath the great mountain. An expedition was ordered immediately, followed by a full scale invasion of the holy island. Gorgon wills it! Why else would he send such visions? Blurag now stands at the new fort, which will serve as a beachhead for the war to come. His scouts have taken a lay of the land, and found nothing but a ruined city, and a fortress that didn't even have scouts posted… The fools! This war for the stone will surely be a short one...
+
+[Top of page](README.md)
+
+# Age of Empires
+
+![thirdage](ThirdAge.png)
+
+**Settlers Leave, new faction.** Disgruntled with the Viceroys seeming reluctance to drive the Forked tongues from their lands and reclaim the market and appalled by the idea of abiding sentient ape men to wander so close to real citizens has resulted in rather sizable band of fringe Nephilim leaving Uruk and founding their own farming settlement. Likely communists. Unwilling to lend any credibility to this split, the Viceroy himself only refers to them as the “Seperatists”. The court jester, ever the naming genius, has the commoners referring to the settlement as “Splitsville”. Separatists…we’ll see how long they remain so. 
+
+**Trade.** When the horde first began ravaging the Barrows, a group of daemons realized the value in gold and gems within the crypts. These daemons formed a coalition, and named themselves the Guild of Merchants. Over time, Garag-nar realized the potential value of this currency. The Guild agreed to buy surplus weapons, in exchange for some of their gold. These weapons were yet to be analyzed, and their worth completely unknown. Some were blessed with terrible enchantments, some simply very old swords, others totally useless junk. Recently, The Guild learned of the nation of the Nephilim. They might use greatswords as regular swords, longswords as daggers; who knows what they may trade for some of these ancient weapons? A trade ship has been loaded down and sent South to make-a-deal
+
+**Thriving Village.** Kanoodear thrives with the new arrival of the devilish, but so far amenable, trade ships of daemon creatures. Traders tell us they call themselves the Barrows Ravagers. Flooding the small town with a surplus of weaponry, our Nephilim forces grow stronger, as does the expanded city of Kanoodear. The new race of devilmen seem rather keen on trading their so called greatswords (scholarship is still unsure why, as they appear appropriately sized for anything called a sword) for our surplus of redstone. Given that our magi tell us there is currently but 1 known mine producing redstone, the grand Vizier sees little risk in handing over what we can spare. As far as we know, only our wisemen have even begun to unlock its potential. Perhaps the Ravagers eat it? Or perhaps they too will find another use. Who can say.
+
+**Settlers Leave – New Faction.** The Methane processing plant of the Sunken Marsh is largely autonomous and self governing. The foreman of the facility has seen fit to take hobbit slaves from the nearby village, as their tiny hands are perfect for some machinery… Rumors have recently spread of a village of daemons deep within the nearby jungle…. A village with some very… hobbit-like daemons…. As long as the methane flows, nobody asks too many questions. That being said, these tiny daemons have no affiliation with the horde of the Barrows Ravagers
+
+**Expand.** Times are good in the realm of the Nephilim. Scholarship thrives, craftsmen build, and the people…need more space. Some prefer the quiet countryside’s to the busy city life, and given all the new giant mouths to feed, more farms and food seem a prudent idea. Despite the ever looming threat of the hostile Forked Tongues, the grand Vizier has guaranteed the protection of the new farming town of Weizenheim. And should the croups fail, perhaps we can grind the bones of the cold-blooded menace. 
+
+**Rising Cult.** The Obsidian War has been dragging on for years upon Goran’s Isle. The daemon horde and the Inganae warriors skirmish during the day, but are both afraid to be caught in the field at night. The Skaven swarm around the mountain after dark, and their numbers are otherworldly. In a disturbing turn of events, a group of Daemon shaman has decided that the only way to end the stalemate is to kill Goran himself. They’ve established themselves in the ruins to the south, and are convinced that the key to the god’s destruction lies somewhere in the burned out city…
+
+[Top of page](README.md)
