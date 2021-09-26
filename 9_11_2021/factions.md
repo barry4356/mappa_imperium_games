@@ -9,4 +9,10 @@ After descending upon and slaying *illegible* (for it was he who scouted and cho
 
 Long ago, war broke out in the heavens. Slaying as many of the gods as he could find, Ankai rose victorious. For their refusal to help aid Ankai in his quest for dominion, the Nephilim were cast from the skies and bound to the mortal realms. Long ages have past and the once destitute and broken Nephilim have grown into a burgeoning society, founding their capital city near the Deep wood, the Stronghold of Uruk.
 
+#  <img src="HalfimpsSymbol.png" width="30" height="30"> Half Imps 
+![Hi](HalfimpsExample.png) 
+
+The origin of this particular faction is…. Undetermined. While technically daemons they share a striking resemblance to hobbit-folk. Nobody asks too many questions…. 
+It’s rumored that the goddess Narnova has taken a particular fondness towards these people
+
 [Main Page](README.md)
