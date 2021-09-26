@@ -8,6 +8,9 @@
     - [Garmsby Hobbits](tribes.md#garmsby-hobbits)
     - [Skaven](tribes.md#skaven)
     - [Simul Fortis](tribes.md#simul-fortis)
+    - [Half Imps](tribes.md#half-imps)
+- [Cults](cults.md)
+    - [Goran's Doom](cults.md#goran's-doom)
 - [Pantheon](#the-pantheon)
     - [Goran](#the-pantheon)
     - [Narnova](#the-pantheon)
@@ -78,5 +81,17 @@ It's been long months since the priests of Gorgon came to Blurag to describe the
 # Age of Empires
 
 ![thirdage](ThirdAge.png)
+
+**Settlers Leave, new faction.** Disgruntled with the Viceroys seeming reluctance to drive the Forked tongues from their lands and reclaim the market and appalled by the idea of abiding sentient ape men to wander so close to real citizens has resulted in rather sizable band of fringe Nephilim leaving Uruk and founding their own farming settlement. Likely communists. Unwilling to lend any credibility to this split, the Viceroy himself only refers to them as the “Seperatists”. The court jester, ever the naming genius, has the commoners referring to the settlement as “Splitsville”. Separatists…we’ll see how long they remain so. 
+
+**Trade.** When the horde first began ravaging the Barrows, a group of daemons realized the value in gold and gems within the crypts. These daemons formed a coalition, and named themselves the Guild of Merchants. Over time, Garag-nar realized the potential value of this currency. The Guild agreed to buy surplus weapons, in exchange for some of their gold. These weapons were yet to be analyzed, and their worth completely unknown. Some were blessed with terrible enchantments, some simply very old swords, others totally useless junk. Recently, The Guild learned of the nation of the Nephilim. They might use greatswords as regular swords, longswords as daggers; who knows what they may trade for some of these ancient weapons? A trade ship has been loaded down and sent South to make-a-deal
+
+**Thriving Village.** Kanoodear thrives with the new arrival of the devilish, but so far amenable, trade ships of daemon creatures. Traders tell us they call themselves the Barrows Ravagers. Flooding the small town with a surplus of weaponry, our Nephilim forces grow stronger, as does the expanded city of Kanoodear. The new race of devilmen seem rather keen on trading their so called greatswords (scholarship is still unsure why, as they appear appropriately sized for anything called a sword) for our surplus of redstone. Given that our magi tell us there is currently but 1 known mine producing redstone, the grand Vizier sees little risk in handing over what we can spare. As far as we know, only our wisemen have even begun to unlock its potential. Perhaps the Ravagers eat it? Or perhaps they too will find another use. Who can say.
+
+**Settlers Leave – New Faction.** The Methane processing plant of the Sunken Marsh is largely autonomous and self governing. The foreman of the facility has seen fit to take hobbit slaves from the nearby village, as their tiny hands are perfect for some machinery… Rumors have recently spread of a village of daemons deep within the nearby jungle…. A village with some very… hobbit-like daemons…. As long as the methane flows, nobody asks too many questions. That being said, these tiny daemons have no affiliation with the horde of the Barrows Ravagers
+
+**Expand.** Times are good in the realm of the Nephilim. Scholarship thrives, craftsmen build, and the people…need more space. Some prefer the quiet countryside’s to the busy city life, and given all the new giant mouths to feed, more farms and food seem a prudent idea. Despite the ever looming threat of the hostile Forked Tongues, the grand Vizier has guaranteed the protection of the new farming town of Weizenheim. And should the croups fail, perhaps we can grind the bones of the cold-blooded menace. 
+
+**Rising Cult.** The Obsidian War has been dragging on for years upon Goran’s Isle. The daemon horde and the Inganae warriors skirmish during the day, but are both afraid to be caught in the field at night. The Skaven swarm around the mountain after dark, and their numbers are otherworldly. In a disturbing turn of events, a group of Daemon shaman has decided that the only way to end the stalemate is to kill Goran himself. They’ve established themselves in the ruins to the south, and are convinced that the key to the god’s destruction lies somewhere in the burned out city…
 
 [Top of page](README.md)
