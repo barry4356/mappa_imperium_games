@@ -5,6 +5,8 @@ A group of Daemon shaman that has decided the only way to end the obsidian war i
 They’ve established themselves in the ruins to the south of Goran’s Isle, 
 and are convinced that the key to the god’s destruction lies somewhere in the burned out city…
 
+After the end of the obsidian war, it became clear that the cult truly just desires the death of Goran, and were most pleased by the savage destruction of his mountain caverns… perhaps they are influenced by the god-killer Ankai?
+
 # Mov Petra
 ![MP](movpetraExample.png)
 
