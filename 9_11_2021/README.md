@@ -12,7 +12,7 @@
 - [Cults](cults.md)
     - [Goran's Doom](cults.md#goran's-doom)
     - [Mov Petra](cults.md#mov-petra)
-- [Herods](heroes.md)
+- [Heroes](heroes.md)
     - [Blurag](heroes.md#blurag)
 - [Pantheon](#the-pantheon)
     - [Goran](#the-pantheon)
