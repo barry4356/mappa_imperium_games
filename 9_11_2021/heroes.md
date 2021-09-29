@@ -1,5 +1,5 @@
 # Blurag
-![BR](Blurag.png)
+![BR](blurag.png)
 
 Descendant of the great chief Urglablurgha, ascended to status of chieftan after killing his brothers in pitched combat (as is tradition, there can be only one heir). 
 Lead the people of the Inganae through the Obsidian wars. 
