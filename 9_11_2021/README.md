@@ -22,6 +22,7 @@
     - [The Beginning](#the-beginning)
     - [Age of Discovery](#age-of-discovery)
     - [Age of Empires](#age-of-empires)
+    - [Rise and Fall](*rise-and-fall)
 - [Online Helper](pythontool.md)
 
 # The Beginning
@@ -121,3 +122,10 @@ For now the guards keep watch, the spies learn what they can, and the grand Vizi
 **War.** When Garag-nar hears about the destruction of the Obsidian mines, he flies into a rage. His counter attack arrives together from both sea and land. The Inganae have clearly gone through a revolution in technology, sailing on GIANT war-canoes, with GIANT defenses. The battle is brutal, and the daemon force would have retreated on more than one occasion if not for the presence of the Dreadlord. By the end of the battle, the few surviving Inganae flee across the water, and the daemons fall back to Goran’s watch… Garag-nar brings only one momento back from the battle, a silver coin the size of a dinner tray, found in the lockbox of the fort. The dreadlord knows that his faction has funded the enemies of the giant-men, he knows that to ruin their trade deal with the Nephilim would be foolishness… but he also remembers. – **Pyrrhic victory**
 
 [Top of page](README.md)
+
+# Rise and Fall
+
+![fourthage](FourthAge.png)
+
+[Top of page](README.md)
+
