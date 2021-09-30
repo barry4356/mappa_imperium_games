@@ -22,7 +22,7 @@
     - [The Beginning](#the-beginning)
     - [Age of Discovery](#age-of-discovery)
     - [Age of Empires](#age-of-empires)
-    - [Rise and Fall](*rise-and-fall)
+    - [Rise and Fall](#rise-and-fall)
 - [Online Helper](pythontool.md)
 
 # The Beginning
