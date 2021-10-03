@@ -1,4 +1,4 @@
-# Goran's Doom
+# ~~Goran's Doom~~
 ![BR](GoransdoomExample.png)
 
 A group of Daemon shaman that has decided the only way to end the obsidian war is to kill Goran himself. 
