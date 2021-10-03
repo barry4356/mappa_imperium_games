@@ -18,7 +18,7 @@ The Inganae are now lead by Urglaburgha, and have made it their mission to worsh
 
 The fishing village of Garmsby was founded in the old days, when nations traded freely and commerce boomed. Over the years, the number of visitors to the island has slowly reduced to effectively none, and the village of Garmsby has become increasingly isolated. The hobbits that dwell there are content to spend their entire lives on the island they’re born on, blissfully unaware of the rest of the world.
 
-# Skaven
+# ~~Skaven~~
 ![skaven](SkavenExample.png)
 
 The Skaven, sometimes known as the Ratmen, the Ratkin or the Children of the Horned Rat, are a malevolent and diabolical race of large humanoid rat-creatures. The Skaven as a whole are a cruel, treacherous, and highly numerous species. Their incomprehensible numbers have the potential to smother kingdoms in a seething tide of violence and anarchy. It is believed by all of Skaven-kind that the world is destined to be theirs, for they consider themselves the Supreme Master Race, undeniably superior in every way to all the other races of the World.
