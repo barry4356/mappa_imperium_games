@@ -1,4 +1,4 @@
-# Blurag
+# ~~Blurag~~
 ![BR](blurag.png)
 
 Descendant of the great chief Urglablurgha, ascended to status of chieftan after killing his brothers in pitched combat (as is tradition, there can be only one heir). 
