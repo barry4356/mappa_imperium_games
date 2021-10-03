@@ -7,6 +7,8 @@ and are convinced that the key to the god’s destruction lies somewhere in the 
 
 After the end of the obsidian war, it became clear that the cult truly just desires the death of Goran, and were most pleased by the savage destruction of his mountain caverns… perhaps they are influenced by the god-killer Ankai?
 
+They were destroyed by the barrow ravagers horde after the war, in retribution for their role in the destruction of the Obsidian Mines
+
 # Mov Petra
 ![MP](movpetraExample.png)
 
