@@ -13,7 +13,6 @@
     - [~~Goran's Doom~~](cults.md#goran's-doom)
     - [Mov Petra](cults.md#mov-petra)
 - [Heroes](heroes.md)
-    - [~~Blurag~~](heroes.md#blurag)
 - [Pantheon](#the-pantheon)
     - [Goran](#the-pantheon)
     - [Narnova](#the-pantheon)
@@ -23,7 +22,6 @@
     - [Age of Discovery](#age-of-discovery)
     - [Age of Empires](#age-of-empires)
     - [Rise and Fall](#rise-and-fall)
-- [Online Helper](pythontool.md)
 
 # The Beginning
 
