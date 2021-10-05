@@ -14,4 +14,4 @@ They were destroyed by the barrow ravagers horde after the war, in retribution f
 
 A band of growing numbers, no one is yet certain where their strange beliefs originated, but it must have been overseas as their patron goddess is not from the Nephilim. Made up primarily of down on their luck Nephilim, they gather around the Obelisk and seek the destruction of all non cult life in hopes of placing Narnova on the throne and inheriting the ashes of the world from which they can rebuild and live as kings.
 
-[Main Page](README.md)
+[Main Page](README.md#table-of-contents)
