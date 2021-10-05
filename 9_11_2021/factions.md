@@ -15,4 +15,4 @@ Long ago, war broke out in the heavens. Slaying as many of the gods as he could 
 The origin of this particular faction is…. Undetermined. While technically daemons they share a striking resemblance to hobbit-folk. Nobody asks too many questions…. 
 It’s rumored that the goddess Narnova has taken a particular fondness towards these people
 
-[Main Page](README.md)
+[Main Page](README.md#table-of-contents)
