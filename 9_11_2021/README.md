@@ -78,7 +78,7 @@ The Simul Fortis are on the move. Scouts report a newly constructed stone fortre
 > **Neighbors Expand**
 It's been long months since the priests of Gorgon came to Blurag to describe their recent visions. Visions depicting magic black stone beneath the great mountain. An expedition was ordered immediately, followed by a full scale invasion of the holy island. Gorgon wills it! Why else would he send such visions? Blurag now stands at the new fort, which will serve as a beachhead for the war to come. His scouts have taken a lay of the land, and found nothing but a ruined city, and a fortress that didn't even have scouts posted… The fools! This war for the stone will surely be a short one...
 
-[Top of page](README.md)
+[Top of page](#table-of-contents)
 
 # Age of Empires
 
@@ -119,7 +119,7 @@ For now the guards keep watch, the spies learn what they can, and the grand Vizi
 
 > **War.** When Garag-nar hears about the destruction of the Obsidian mines, he flies into a rage. His counter attack arrives together from both sea and land. The Inganae have clearly gone through a revolution in technology, sailing on GIANT war-canoes, with GIANT defenses. The battle is brutal, and the daemon force would have retreated on more than one occasion if not for the presence of the Dreadlord. By the end of the battle, the few surviving Inganae flee across the water, and the daemons fall back to Goran’s watch… Garag-nar brings only one momento back from the battle, a silver coin the size of a dinner tray, found in the lockbox of the fort. The dreadlord knows that his faction has funded the enemies of the giant-men, he knows that to ruin their trade deal with the Nephilim would be foolishness… but he also remembers. – **Pyrrhic victory**
 
-[Top of page](README.md)
+[Top of page](#table-of-contents)
 
 # Rise and Fall
 
@@ -142,5 +142,5 @@ For now the guards keep watch, the spies learn what they can, and the grand Vizi
 
 > **Hostile Attack.** A trade ship saw smoke rising from The Grand market East while approaching the docks. The traders discovered the merchants in the market were all slaughtered, and the weapons used were clearly ancient. Some daemons had charred wounds with burned out eyes, some were turned to stone, others were clearly beaten to death with old, blunt battleaxes. So far nobody has taken credit for the attack, was it the Giant men, angered by trade deals with the lizard men? Was it Inganae, seeking to steal the recent delivery of hobbit-slaves to the market? lizards, looking for a war? Maybe even a new faction hidden within the Barrows Ravagers? Perhaps time will tell
 
-[Top of page](README.md)
+[Top of page](#table-of-contents)
 
