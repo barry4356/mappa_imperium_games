@@ -1,4 +1,4 @@
-[Main Page](README.md)
+[Main Page](README.md#table-of-contents)
 
 # Forked Tongues
 ![FT](ForkedTonguesExample.png)
@@ -30,4 +30,4 @@ They were finally exterminated by Garag-nar and his horde of barrows ravagers du
 
 The Simul Fortis claim their roots go back thousands of years, but given their still primitive technology, the wisemen and Magi estimate their civilization to be no older than the arrival of the Nephilim. Inhabiting the their jungle villages in the tree tops of Jungalia, their capital of Neyority takes a noticeably different appearance, more like that of a more advanced but collapsed city of old. For now they live in peace with their neighbors, but they are innately suspicious of all other sentient life. They follow their prophet god Semos, who they claim also fell from the heavens. Perhaps they are not so different from the Nephilim… 
 
-[Main Page](README.md)
+[Main Page](README.md#table-of-contents)
