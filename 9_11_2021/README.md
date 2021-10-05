@@ -37,7 +37,7 @@ Goran is an elder god, who has always taken an interest in the affairs of mortal
 ### <img src="NarnovaSymbol.png" width="35" height="35"> Narnova, goddess of the Hearth
 Narnova is a younger goddess, born of two survivors of Ankai's ascent. Narnova's only contribution to the world has been a terrible god-war against Goran (decimating a large portion of the land, and throwing much into chaos).   
 
-[Top of page](README.md)
+[Top of page](#table-of-contents)
 
 # Age of Discovery
 
