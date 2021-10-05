@@ -6,4 +6,4 @@ Lead the people of the Inganae through the Obsidian wars.
 Spent his younger years building up and defending the beach head fort of Goran’s Isle, and spent his midlife fighting against the daemons and Skaven. 
 He brought the war to an end when he sacrificed himself to destroy the obsidian mines, as was surely Gorgon’s will.
 
-[Main Page](README.md)
+[Main Page](README.md#table-of-contents)
