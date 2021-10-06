@@ -12,7 +12,7 @@
 - [Cults](cults.md#goran's-doom)
     - [~~Goran's Doom~~](cults.md#goran's-doom)
     - [Mov Petra](cults.md#mov-petra)
-    - [Knights of Dagrond-Mau](cults.md#mov-petra)
+    - [Knights of Dagrond-Mau](cults.md#knights-of-dagrund-mau)
 - [Heroes](heroes.md#blurag)
 - [Pantheon](#the-pantheon)
     - [Goran](#the-pantheon)
