@@ -1,8 +1,8 @@
 # Table of Contents
-- [Factions](factions.md#barrows-ravagers)
-    - [Barrows Ravagers](factions.md#barrows-ravagers)
-    - [Nephilim](factions.md#nephilim)
-    - [Half Imps](factions.md#half-imps)
+- [Factions](factions.md#-barrows-ravagers)
+    - [Barrows Ravagers](factions.md#-barrows-ravagers)
+    - [Nephilim](factions.md#-nephilim)
+    - [Half Imps](factions.md#-half-imps)
 - [Tribes](tribes.md#forked-tongues)
     - [Forked Tongues](tribes.md#forked-tongues)
     - [Inganae](tribes.md#inganae)
