@@ -1,3 +1,5 @@
+[Main Page](README.md#table-of-contents)
+
 # ~~Blurag~~
 ![BR](blurag.png)
 
@@ -7,3 +9,9 @@ Spent his younger years building up and defending the beach head fort of Goranâ€
 He brought the war to an end when he sacrificed himself to destroy the obsidian mines, as was surely Gorgonâ€™s will.
 
 [Main Page](README.md#table-of-contents)
+
+# Grond, the Undying
+
+![G](grond.png)
+
+An ancient warlord, entombed beneath the barrows long centuries ago. He was awakened when the Barrow Ravager's corpse miners broke into his tomb. He slaughtered all who he found trespassing his peoples sacred caverns. Now he stalks the crypts, immortal and unforgiving...
