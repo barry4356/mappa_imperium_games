@@ -12,6 +12,6 @@ He brought the war to an end when he sacrificed himself to destroy the obsidian 
 
 # Grond, the Undying
 
-![G](grond.png)
+![G](Grond.png)
 
 An ancient warlord, entombed beneath the barrows long centuries ago. He was awakened when the Barrow Ravager's corpse miners broke into his tomb. He slaughtered all who he found trespassing his peoples sacred caverns. Now he stalks the crypts, immortal and unforgiving...
